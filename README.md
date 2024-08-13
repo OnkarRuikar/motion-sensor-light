@@ -24,6 +24,8 @@ Refer to the following diagram to assemble the components:
 
 ![assembly](assets/connection-diagram.png)
 
+Note that the relay is in parallel with the light switch. So if you want the light continuously on, bypassing the motion sensing, then simply turn on the switch.
+
 ### Tuning
 
 There are three locations R-GN, C-TM, and CDS on the sensor board that can be used to tweak various aspects of the sensor:
