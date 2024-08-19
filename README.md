@@ -13,7 +13,9 @@ The assembly makes a light/fan turn on from two meter distance for >40 seconds w
   ![solid state relay](assets/solid-state_relay_side.jpg)
 
   Or an active high [relay module](https://www.amazon.com/dp/B00LW15A4W/) will also do.
+  
   ![relay](assets/relay.jpg)
+
 3. A 5v power source or two [18650 batteries](https://www.amazon.com/Yuntunele-Replacement-Battery-Rechargeable-Headlights/dp/B0CSW8525D) with a [holder](https://www.amazon.com/Battery-Storage-2x18650-Batteries-Container/dp/B09C1XFD3B). Also, a charger if you don't have one.
 4. 0.1uF capacitor.
 5. 500k ohm resistor.
@@ -42,5 +44,6 @@ If installed out of the house, then to keep the device off during the day time a
 
 ## Resource
 
+- [How microwave body detectors work. With RF section schematic](https://youtu.be/Hf19hc9PtcE)
 - [RCWL-0516 Microwave Radar sensor.pdf](RCWL-0516%20Microwave%20Radar%20Sensor.pdf)
 - [RCWL-0516 information](https://github.com/jdesbonnet/RCWL-0516)
